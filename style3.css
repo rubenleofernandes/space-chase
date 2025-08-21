@@ -21,7 +21,7 @@ body{
 }
 .contact-left-title h2{
 	font-weight: 600;
-	color: #a363aa;
+	color: red;
 	font-size: 40px;
 	margin-bottom: 5px;
 }
@@ -77,3 +77,4 @@ body{
     	display: none;
     }
 }
+
